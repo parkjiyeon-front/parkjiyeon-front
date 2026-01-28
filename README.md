@@ -2,7 +2,7 @@
 <hr/>
 
 
-```
+```typescript
 let jiyeon = {
  role: 'FE',
  expertise: {
