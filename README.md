@@ -1,4 +1,2 @@
-# JIYEON
-
-## 🙀 JIEYON
+# 🙀 JIYEON
 <hr/>
